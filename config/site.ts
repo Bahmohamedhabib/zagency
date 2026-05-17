@@ -5,7 +5,7 @@ export const siteConfig = {
     contact: {
         phone: "+33 7 46 46 31 87",
         whatsapp: "+33 7 46 46 31 87",
-        email: "z.agency225@gmail.com",
+        email: "direction.zagency@gmail.com",
         address: "Lyon, France",
     },
     links: {
